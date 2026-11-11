@@ -9,3 +9,4 @@ wheels/
 .venv
 .virtual_documents
 .ipynb_checkpoints
+dataset/cleaned/
